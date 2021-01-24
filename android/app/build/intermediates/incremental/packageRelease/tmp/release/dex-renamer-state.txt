@@ -1,0 +1,4 @@
+#Sun Jan 24 21:02:58 IST 2021
+base.0=/home/dhev/Desktop/healthandglow/asdf/healthandglow/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
